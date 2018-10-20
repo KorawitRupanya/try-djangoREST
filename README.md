@@ -1,1 +1,1 @@
-#This is directory is the tutorial of REST django framwork.
+# This is directory is the tutorial of REST django framwork.
